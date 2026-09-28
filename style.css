@@ -174,7 +174,7 @@ header {
         rgba(40, 31, 91, 0.5)
       )
       center center / cover,
-    url(/image/aliyu.jpeg);
+    url(/images/aliyu.jpeg);
   background-position: center center;
   border-radius: 100% 0px 0px 100%;
 }
@@ -711,7 +711,6 @@ header {
     align-items: center;
   }
 }
-
 
 @media screen and (max-width: 768px) {
   /* Show hamburger icon */
